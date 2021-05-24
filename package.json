@@ -1,0 +1,28 @@
+{
+  "name": "read-csv-file-react-send-mail",
+  "version": "1.0.0",
+  "description": "end to end app to read csv file and send bulk mail with node mailer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binduTank/read-csv-send-mail-react-nodemailer-app.git"
+  },
+  "keywords": [
+    "react",
+    "nodmailer",
+    "nodejs"
+  ],
+  "author": "Bindu Tank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binduTank/read-csv-send-mail-react-nodemailer-app/issues"
+  },
+  "homepage": "https://github.com/binduTank/read-csv-send-mail-react-nodemailer-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
